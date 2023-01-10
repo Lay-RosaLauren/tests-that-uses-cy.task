@@ -1,0 +1,19 @@
+{
+  "name": "tests-that-uses-cy-task",
+  "version": "1.0.0",
+  "description": "Learning cy.task with Cypress",
+  "main": "index.js",
+  "scripts": {
+    "cypress": "cypress open",
+    "test": "cypress run"
+  },
+  "keywords": [
+    "cypress"
+  ],
+  "author": "Lay-RosaLauren",
+  "license": "MIT",
+  "dependencies": {
+    "cypress": "^8.1.0",
+    "faker": "^5.5.3"
+  }
+}
